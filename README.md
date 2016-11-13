@@ -1,5 +1,5 @@
 # RecyclerView2
-![ScreenShot] (https://github.com/xjoliez/HellloGit/blob/master/Screenshot_2016-09-11-22-38-48.png "")
+![ScreenShot] (https://github.com/xjoliez/RecyclerView2/blob/master/Screenshot_2016-11-05-12-12-52.png "")
 # Nama 
 Selina Kusmiawati
 # Kelas 
